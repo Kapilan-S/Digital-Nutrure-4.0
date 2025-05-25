@@ -1,0 +1,10 @@
+// Using jQuery
+$('#registerBtn').click(function() {
+  alert('You clicked register');
+});
+
+$('.event-card').fadeIn();
+$('.event-card').fadeOut();
+
+// Benefit of frameworks:
+console.log("React/Vue make components reusable and manage UI state efficiently.");

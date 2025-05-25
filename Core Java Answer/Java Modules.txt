@@ -1,0 +1,12 @@
+com.greetings/
+  module-info.java
+  Greetings.java
+
+com.utils/
+  module-info.java
+  Utils.java
+
+
+module com.utils {
+    exports com.utils;
+}
